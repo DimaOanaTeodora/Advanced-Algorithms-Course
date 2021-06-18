@@ -35,6 +35,7 @@
 
 :large_blue_diamond:  [C4 S24: Vertex cover & LP](https://docs.google.com/document/d/1nOOjU98GvcDGDzWHJNPcsGrjovvRVu1uS2dC1bve1iM/edit?usp=sharing)
 
+:large_blue_diamond:  [Consultatie Popescu](https://docs.google.com/document/d/1jw6s4KTsMh6sj-wanbodXskDo6JNavHoBwMRYGiXVKY/edit?usp=sharing)
 
 
 
